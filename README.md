@@ -1,3 +1,6 @@
+<img width="1148" height="646" alt="mlgg_testthaitran" src="https://github.com/user-attachments/assets/67e31cf6-9e9b-425f-a740-3ca4ddd4572e" />
+พึ่งเริ่มแปลครับ Progress 0.01% 
+
 # muvluvgg-translation
 
 Muvluv Girls Garden 简体中文翻译。
